@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td>
- A hard part about live streaming at protests is not capturing protesters faces, as the fbi and police will watch livestreams. IDidnt see shit blocs out faces in real-time. This allows you to keep protesters anonymous-ish while recording live. 
+ A hard part about live streaming at protests is not capturing protesters faces, as the fbi and police will watch livestreams. I didnt see shit blocs out faces in real-time. This allows you to keep protesters anonymous-ish while live streaming. 
 </td>
 </tr>
 </table>
@@ -18,7 +18,7 @@ Hopefully soon we will have it in app store
 ### Requirements
 - A Mac or a device capable of running xcode 
 - [Xcode](https://developer.apple.com/xcode/) Download
--An iOS device, Sorry android users
+- An iOS device, Sorry android users
 ### First Download and set up xcode
 
 
@@ -49,9 +49,9 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## Built with 
 
-- [HaishinKit](http://www.w3schools.com/jquery/jquery_ref_ajax.asp) - jQuery simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development.
-- [CoreImage](https://developers.google.com/chart/interactive/docs/quick_start) - Free , Rich Gallery , Customizable and Cross-browser compatible.
-- [Yerba Mate](http://getbootstrap.com/) - Extensive list of components and  Bundled Javascript plugins.
+- [HaishinKit](https://github.com/shogo4405/HaishinKit.swift) - A neat library that handles rtmp streaming with iOS
+- [CoreImage](https://developer.apple.com/documentation/coreimage) - Apple - gives us local face recognition.
+- [Yerba Mate](https://guayaki.com/why-yerba-mate/) - yes
 
 
 ## To-do
