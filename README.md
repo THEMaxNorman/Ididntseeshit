@@ -23,7 +23,7 @@ Hopefully soon we will have it in app store
 
 ### First Download and set up xcode
 - [Download Here](https://developer.apple.com/xcode/) 
--
+
 ### Then download the app
 -Then [Download]() and unzip the app file
 
