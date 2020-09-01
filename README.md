@@ -14,7 +14,11 @@ Here's some screen caps
 
 
 ## Site
-Hopefully 
+### Requirements
+- A Mac or a device capable of running xcode 
+- [Xcode](https://developer.apple.com/xcode/) Download
+-An iOS device, Sorry android users
+
 
 
 
