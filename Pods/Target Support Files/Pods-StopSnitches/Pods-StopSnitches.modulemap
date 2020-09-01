@@ -1,0 +1,6 @@
+framework module Pods_StopSnitches {
+  umbrella header "Pods-StopSnitches-umbrella.h"
+
+  export *
+  module * { export * }
+}
