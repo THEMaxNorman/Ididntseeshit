@@ -33,50 +33,7 @@ Hopefully soon we will have it in app store
 
 ### Get your rtmp key 
 #### List Of Links
--<div class="screensteps-child-wrapper">
-    <div class="step screensteps-section screensteps-depth-1" id="periscope">
-      <span class="step-title screensteps-heading screensteps-foldable-title screensteps-foldable-title-depth-1">
-        <a href="#periscope" class="screensteps-foldable-content-parent screensteps-foldable-trigger screensteps-active-step" id="screensteps-step-98B69A00-BFA0-0136-9B73-06467EE270FA">
-          Periscope
-        </a>
-      </span>
-      <div class="screensteps-nested-content" id="nested-step-98B69A00-BFA0-0136-9B73-06467EE270FA" style="display: none;">
-          <div class="step-instructions screensteps-textblock ">
-  <p>To get your RTMP credentials for Periscope, you will need to install the Periscope App on your iOS or Android device.</p>
-<p>&nbsp;</p>
-</div>
- 
-          <div class="step-instructions screensteps-textblock ">
-  <p>In the Periscope app, navigate to your profile then scroll down and select <strong>Settings</strong>.</p>
-</div>
- 
-          <div class="image screensteps-image">
-    <img src="https://media.screensteps.com/image_assets/assets/001/993/103/original/f9febb44-8d0b-4de6-bb17-9582431dbb45.png" alt="" height="619" width="349">
-</div>
- 
-          <div class="step-instructions screensteps-textblock ">
-  <p>Under Advanced Sources, select <strong>Periscope Producer</strong>.</p>
-</div>
- 
-          <div class="image screensteps-image">
-    <img src="https://media.screensteps.com/image_assets/assets/001/993/101/original/32dae585-0c87-44a2-ae4c-36a725e3d5f6.png" alt="" height="617" width="348">
-</div>
- 
-          <div class="step-instructions screensteps-textblock ">
-  <p>A Server URL and Stream Key will generate. Enter these into the RTMP URL and Stream Key fields in Livestream.</p>
-</div>
- 
-          <div class="image screensteps-image">
-    <img src="https://media.screensteps.com/image_assets/assets/001/120/310/original/9db19dab-de03-4923-986e-02f9aa538fdf.png" alt="" height="618" width="348">
-</div>
- 
-          <div class="step-instructions screensteps-textblock ">
-  <p>Please be advised of <a href="https://help.livestream.com/hc/en-us/articles/115002994128-How-Do-I-Remove-Warnings-About-My-Stream-s-Bitrate-and-Resolution-in-Periscope-" target="_blank">Periscope's streaming specifications</a>.</p>
-</div>
- 
-      </div>
-    </div>
-  </div>
+- This [Link](https://help.livestream.com/hc/en-us/articles/360002051708-How-Do-I-Find-RTMP-Stream-Settings-For-Popular-Providers-) has how to get your info for most services
 
 ## Development
 Want to contribute? Great!
