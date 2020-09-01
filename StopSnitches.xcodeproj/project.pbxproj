@@ -7,25 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5A4ADE2C24FDF731004CF2F1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5A4ADE2B24FDF731004CF2F1 /* Preview Assets.xcassets */; };
 		5A4ADE6324FDF7EE004CF2F1 /* PreferenceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A4ADE5324FDF7EC004CF2F1 /* PreferenceViewController.swift */; };
 		5A4ADE6424FDF7EE004CF2F1 /* VisualEffect.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A4ADE5424FDF7EC004CF2F1 /* VisualEffect.swift */; };
 		5A4ADE6524FDF7EE004CF2F1 /* Preference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A4ADE5524FDF7EC004CF2F1 /* Preference.swift */; };
 		5A4ADE6624FDF7EE004CF2F1 /* Pods in Resources */ = {isa = PBXBuildFile; fileRef = 5A4ADE5624FDF7EC004CF2F1 /* Pods */; };
 		5A4ADE6724FDF7EE004CF2F1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5A4ADE5724FDF7EC004CF2F1 /* Main.storyboard */; };
-		5A4ADE6824FDF7EE004CF2F1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5A4ADE5824FDF7EC004CF2F1 /* Assets.xcassets */; };
 		5A4ADE6924FDF7EE004CF2F1 /* LiveViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A4ADE5924FDF7ED004CF2F1 /* LiveViewController.swift */; };
 		5A4ADE6A24FDF7EE004CF2F1 /* Screencast in Resources */ = {isa = PBXBuildFile; fileRef = 5A4ADE5A24FDF7ED004CF2F1 /* Screencast */; };
 		5A4ADE6C24FDF7EE004CF2F1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A4ADE5C24FDF7ED004CF2F1 /* AppDelegate.swift */; };
 		5A4ADE6D24FDF7EE004CF2F1 /* Base.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 5A4ADE5D24FDF7ED004CF2F1 /* Base.lproj */; };
 		5A4ADE6E24FDF7EE004CF2F1 /* podfile in Resources */ = {isa = PBXBuildFile; fileRef = 5A4ADE5E24FDF7ED004CF2F1 /* podfile */; };
-		5A4ADE7024FDF7EE004CF2F1 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A4ADE6024FDF7ED004CF2F1 /* Icon.png */; };
 		5A4B617424FE5FAE001FF96D /* HaishinKit in Frameworks */ = {isa = PBXBuildFile; productRef = 5A4B617324FE5FAE001FF96D /* HaishinKit */; };
+		5A4B617824FF053E001FF96D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5A4B617724FF053E001FF96D /* Images.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		5A4ADE1C24FDF727004CF2F1 /* IDidn'tSeeShit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "IDidn'tSeeShit.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5A4ADE2B24FDF731004CF2F1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5A4ADE3924FDF731004CF2F1 /* StopSnitchesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StopSnitchesTests.swift; sourceTree = "<group>"; };
 		5A4ADE3B24FDF731004CF2F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5A4ADE4424FDF731004CF2F1 /* StopSnitchesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StopSnitchesUITests.swift; sourceTree = "<group>"; };
@@ -36,7 +33,6 @@
 		5A4ADE5524FDF7EC004CF2F1 /* Preference.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Preference.swift; sourceTree = "<group>"; };
 		5A4ADE5624FDF7EC004CF2F1 /* Pods */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Pods; sourceTree = "<group>"; };
 		5A4ADE5724FDF7EC004CF2F1 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
-		5A4ADE5824FDF7EC004CF2F1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5A4ADE5924FDF7ED004CF2F1 /* LiveViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LiveViewController.swift; sourceTree = "<group>"; };
 		5A4ADE5A24FDF7ED004CF2F1 /* Screencast */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Screencast; sourceTree = "<group>"; };
 		5A4ADE5B24FDF7ED004CF2F1 /* StopSnitchesTests */ = {isa = PBXFileReference; lastKnownFileType = folder; path = StopSnitchesTests; sourceTree = "<group>"; };
@@ -44,9 +40,10 @@
 		5A4ADE5D24FDF7ED004CF2F1 /* Base.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Base.lproj; sourceTree = "<group>"; };
 		5A4ADE5E24FDF7ED004CF2F1 /* podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = podfile; sourceTree = "<group>"; };
 		5A4ADE5F24FDF7ED004CF2F1 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5A4ADE6024FDF7ED004CF2F1 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
 		5A4ADE6124FDF7EE004CF2F1 /* StopSnitches */ = {isa = PBXFileReference; lastKnownFileType = folder; path = StopSnitches; sourceTree = "<group>"; };
 		5A4ADE6224FDF7EE004CF2F1 /* StopSnitchesUITests */ = {isa = PBXFileReference; lastKnownFileType = folder; path = StopSnitchesUITests; sourceTree = "<group>"; };
+		5A4B617524FF02FD001FF96D /* AppIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = AppIcon.png; path = "../../Downloads/appiconmaker.co_ios 2/AppIcon.png"; sourceTree = "<group>"; };
+		5A4B617724FF053E001FF96D /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,9 +66,8 @@
 				5A4ADE3824FDF731004CF2F1 /* StopSnitchesTests */,
 				5A4ADE4324FDF731004CF2F1 /* StopSnitchesUITests */,
 				5A4ADE5C24FDF7ED004CF2F1 /* AppDelegate.swift */,
-				5A4ADE5824FDF7EC004CF2F1 /* Assets.xcassets */,
+				5A4B617524FF02FD001FF96D /* AppIcon.png */,
 				5A4ADE5D24FDF7ED004CF2F1 /* Base.lproj */,
-				5A4ADE6024FDF7ED004CF2F1 /* Icon.png */,
 				5A4ADE5F24FDF7ED004CF2F1 /* Info.plist */,
 				5A4ADE5924FDF7ED004CF2F1 /* LiveViewController.swift */,
 				5A4ADE5724FDF7EC004CF2F1 /* Main.storyboard */,
@@ -100,6 +96,7 @@
 			isa = PBXGroup;
 			children = (
 				5A4ADE2A24FDF731004CF2F1 /* Preview Content */,
+				5A4B617724FF053E001FF96D /* Images.xcassets */,
 			);
 			path = StopSnitches;
 			sourceTree = "<group>";
@@ -107,7 +104,6 @@
 		5A4ADE2A24FDF731004CF2F1 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				5A4ADE2B24FDF731004CF2F1 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -195,14 +191,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5A4B617824FF053E001FF96D /* Images.xcassets in Resources */,
 				5A4ADE6A24FDF7EE004CF2F1 /* Screencast in Resources */,
 				5A4ADE6D24FDF7EE004CF2F1 /* Base.lproj in Resources */,
-				5A4ADE7024FDF7EE004CF2F1 /* Icon.png in Resources */,
 				5A4ADE6E24FDF7EE004CF2F1 /* podfile in Resources */,
 				5A4ADE6724FDF7EE004CF2F1 /* Main.storyboard in Resources */,
 				5A4ADE6624FDF7EE004CF2F1 /* Pods in Resources */,
-				5A4ADE6824FDF7EE004CF2F1 /* Assets.xcassets in Resources */,
-				5A4ADE2C24FDF731004CF2F1 /* Preview Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
