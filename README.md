@@ -1,5 +1,6 @@
-# ![Photo](https://www.wweek.com/resizer/_z_ugGg9RNzEAJ66JzidurVFWK8=/1200x0/filters:quality(100)/s3.amazonaws.com/arc-wordpress-client-uploads/wweek/wp-content/uploads/2020/05/31224313/7837096459248112771.jpg)
 # Stop exposing your comrades!
+# ![Photo](https://www.wweek.com/resizer/_z_ugGg9RNzEAJ66JzidurVFWK8=/1200x0/filters:quality(100)/s3.amazonaws.com/arc-wordpress-client-uploads/wweek/wp-content/uploads/2020/05/31224313/7837096459248112771.jpg)
+
 <table>
 <tr>
 <td>
