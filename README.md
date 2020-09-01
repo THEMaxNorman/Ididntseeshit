@@ -13,11 +13,13 @@
 Here's some screen caps
 
 
-## Site
+## Installation and Set Up
+Hopefully soon we will have it in app store
 ### Requirements
 - A Mac or a device capable of running xcode 
 - [Xcode](https://developer.apple.com/xcode/) Download
 -An iOS device, Sorry android users
+### First Download and set up xcode
 
 
 
