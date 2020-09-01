@@ -3,54 +3,50 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 52;
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5A4ADE2024FDF727004CF2F1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A4ADE1F24FDF727004CF2F1 /* AppDelegate.swift */; };
-		5A4ADE2224FDF727004CF2F1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A4ADE2124FDF727004CF2F1 /* SceneDelegate.swift */; };
-		5A4ADE2524FDF727004CF2F1 /* StopSnitches.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 5A4ADE2324FDF727004CF2F1 /* StopSnitches.xcdatamodeld */; };
-		5A4ADE2724FDF728004CF2F1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A4ADE2624FDF728004CF2F1 /* ContentView.swift */; };
-		5A4ADE2924FDF731004CF2F1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5A4ADE2824FDF731004CF2F1 /* Assets.xcassets */; };
 		5A4ADE2C24FDF731004CF2F1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5A4ADE2B24FDF731004CF2F1 /* Preview Assets.xcassets */; };
-		5A4ADE2F24FDF731004CF2F1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5A4ADE2D24FDF731004CF2F1 /* LaunchScreen.storyboard */; };
-		5A4ADE3A24FDF731004CF2F1 /* StopSnitchesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A4ADE3924FDF731004CF2F1 /* StopSnitchesTests.swift */; };
-		5A4ADE4524FDF731004CF2F1 /* StopSnitchesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A4ADE4424FDF731004CF2F1 /* StopSnitchesUITests.swift */; };
+		5A4ADE6324FDF7EE004CF2F1 /* PreferenceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A4ADE5324FDF7EC004CF2F1 /* PreferenceViewController.swift */; };
+		5A4ADE6424FDF7EE004CF2F1 /* VisualEffect.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A4ADE5424FDF7EC004CF2F1 /* VisualEffect.swift */; };
+		5A4ADE6524FDF7EE004CF2F1 /* Preference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A4ADE5524FDF7EC004CF2F1 /* Preference.swift */; };
+		5A4ADE6624FDF7EE004CF2F1 /* Pods in Resources */ = {isa = PBXBuildFile; fileRef = 5A4ADE5624FDF7EC004CF2F1 /* Pods */; };
+		5A4ADE6724FDF7EE004CF2F1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5A4ADE5724FDF7EC004CF2F1 /* Main.storyboard */; };
+		5A4ADE6824FDF7EE004CF2F1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5A4ADE5824FDF7EC004CF2F1 /* Assets.xcassets */; };
+		5A4ADE6924FDF7EE004CF2F1 /* LiveViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A4ADE5924FDF7ED004CF2F1 /* LiveViewController.swift */; };
+		5A4ADE6A24FDF7EE004CF2F1 /* Screencast in Resources */ = {isa = PBXBuildFile; fileRef = 5A4ADE5A24FDF7ED004CF2F1 /* Screencast */; };
+		5A4ADE6C24FDF7EE004CF2F1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A4ADE5C24FDF7ED004CF2F1 /* AppDelegate.swift */; };
+		5A4ADE6D24FDF7EE004CF2F1 /* Base.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 5A4ADE5D24FDF7ED004CF2F1 /* Base.lproj */; };
+		5A4ADE6E24FDF7EE004CF2F1 /* podfile in Resources */ = {isa = PBXBuildFile; fileRef = 5A4ADE5E24FDF7ED004CF2F1 /* podfile */; };
+		5A4ADE7024FDF7EE004CF2F1 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A4ADE6024FDF7ED004CF2F1 /* Icon.png */; };
+		5A4B617424FE5FAE001FF96D /* HaishinKit in Frameworks */ = {isa = PBXBuildFile; productRef = 5A4B617324FE5FAE001FF96D /* HaishinKit */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		5A4ADE3624FDF731004CF2F1 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 5A4ADE1424FDF727004CF2F1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 5A4ADE1B24FDF727004CF2F1;
-			remoteInfo = StopSnitches;
-		};
-		5A4ADE4124FDF731004CF2F1 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 5A4ADE1424FDF727004CF2F1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 5A4ADE1B24FDF727004CF2F1;
-			remoteInfo = StopSnitches;
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXFileReference section */
-		5A4ADE1C24FDF727004CF2F1 /* StopSnitches.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StopSnitches.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		5A4ADE1F24FDF727004CF2F1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		5A4ADE2124FDF727004CF2F1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		5A4ADE2424FDF727004CF2F1 /* StopSnitches.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = StopSnitches.xcdatamodel; sourceTree = "<group>"; };
-		5A4ADE2624FDF728004CF2F1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		5A4ADE2824FDF731004CF2F1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		5A4ADE1C24FDF727004CF2F1 /* IDidn'tSeeShit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "IDidn'tSeeShit.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A4ADE2B24FDF731004CF2F1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		5A4ADE2E24FDF731004CF2F1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		5A4ADE3024FDF731004CF2F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5A4ADE3524FDF731004CF2F1 /* StopSnitchesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StopSnitchesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A4ADE3924FDF731004CF2F1 /* StopSnitchesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StopSnitchesTests.swift; sourceTree = "<group>"; };
 		5A4ADE3B24FDF731004CF2F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5A4ADE4024FDF731004CF2F1 /* StopSnitchesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StopSnitchesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A4ADE4424FDF731004CF2F1 /* StopSnitchesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StopSnitchesUITests.swift; sourceTree = "<group>"; };
 		5A4ADE4624FDF731004CF2F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5A4ADE5224FDF7EB004CF2F1 /* StopSnitches-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "StopSnitches-Bridging-Header.h"; sourceTree = "<group>"; };
+		5A4ADE5324FDF7EC004CF2F1 /* PreferenceViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PreferenceViewController.swift; sourceTree = "<group>"; };
+		5A4ADE5424FDF7EC004CF2F1 /* VisualEffect.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VisualEffect.swift; sourceTree = "<group>"; };
+		5A4ADE5524FDF7EC004CF2F1 /* Preference.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Preference.swift; sourceTree = "<group>"; };
+		5A4ADE5624FDF7EC004CF2F1 /* Pods */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Pods; sourceTree = "<group>"; };
+		5A4ADE5724FDF7EC004CF2F1 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		5A4ADE5824FDF7EC004CF2F1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		5A4ADE5924FDF7ED004CF2F1 /* LiveViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LiveViewController.swift; sourceTree = "<group>"; };
+		5A4ADE5A24FDF7ED004CF2F1 /* Screencast */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Screencast; sourceTree = "<group>"; };
+		5A4ADE5B24FDF7ED004CF2F1 /* StopSnitchesTests */ = {isa = PBXFileReference; lastKnownFileType = folder; path = StopSnitchesTests; sourceTree = "<group>"; };
+		5A4ADE5C24FDF7ED004CF2F1 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		5A4ADE5D24FDF7ED004CF2F1 /* Base.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Base.lproj; sourceTree = "<group>"; };
+		5A4ADE5E24FDF7ED004CF2F1 /* podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = podfile; sourceTree = "<group>"; };
+		5A4ADE5F24FDF7ED004CF2F1 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5A4ADE6024FDF7ED004CF2F1 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		5A4ADE6124FDF7EE004CF2F1 /* StopSnitches */ = {isa = PBXFileReference; lastKnownFileType = folder; path = StopSnitches; sourceTree = "<group>"; };
+		5A4ADE6224FDF7EE004CF2F1 /* StopSnitchesUITests */ = {isa = PBXFileReference; lastKnownFileType = folder; path = StopSnitchesUITests; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,20 +54,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		5A4ADE3224FDF731004CF2F1 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		5A4ADE3D24FDF731004CF2F1 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
+				5A4B617424FE5FAE001FF96D /* HaishinKit in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -82,18 +65,33 @@
 			isa = PBXGroup;
 			children = (
 				5A4ADE1E24FDF727004CF2F1 /* StopSnitches */,
+				5A4ADE6124FDF7EE004CF2F1 /* StopSnitches */,
 				5A4ADE3824FDF731004CF2F1 /* StopSnitchesTests */,
 				5A4ADE4324FDF731004CF2F1 /* StopSnitchesUITests */,
+				5A4ADE5C24FDF7ED004CF2F1 /* AppDelegate.swift */,
+				5A4ADE5824FDF7EC004CF2F1 /* Assets.xcassets */,
+				5A4ADE5D24FDF7ED004CF2F1 /* Base.lproj */,
+				5A4ADE6024FDF7ED004CF2F1 /* Icon.png */,
+				5A4ADE5F24FDF7ED004CF2F1 /* Info.plist */,
+				5A4ADE5924FDF7ED004CF2F1 /* LiveViewController.swift */,
+				5A4ADE5724FDF7EC004CF2F1 /* Main.storyboard */,
+				5A4ADE5E24FDF7ED004CF2F1 /* podfile */,
+				5A4ADE5624FDF7EC004CF2F1 /* Pods */,
+				5A4ADE5524FDF7EC004CF2F1 /* Preference.swift */,
+				5A4ADE5324FDF7EC004CF2F1 /* PreferenceViewController.swift */,
+				5A4ADE5A24FDF7ED004CF2F1 /* Screencast */,
+				5A4ADE5B24FDF7ED004CF2F1 /* StopSnitchesTests */,
+				5A4ADE6224FDF7EE004CF2F1 /* StopSnitchesUITests */,
+				5A4ADE5424FDF7EC004CF2F1 /* VisualEffect.swift */,
 				5A4ADE1D24FDF727004CF2F1 /* Products */,
+				5A4ADE5224FDF7EB004CF2F1 /* StopSnitches-Bridging-Header.h */,
 			);
 			sourceTree = "<group>";
 		};
 		5A4ADE1D24FDF727004CF2F1 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5A4ADE1C24FDF727004CF2F1 /* StopSnitches.app */,
-				5A4ADE3524FDF731004CF2F1 /* StopSnitchesTests.xctest */,
-				5A4ADE4024FDF731004CF2F1 /* StopSnitchesUITests.xctest */,
+				5A4ADE1C24FDF727004CF2F1 /* IDidn'tSeeShit.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -101,13 +99,6 @@
 		5A4ADE1E24FDF727004CF2F1 /* StopSnitches */ = {
 			isa = PBXGroup;
 			children = (
-				5A4ADE1F24FDF727004CF2F1 /* AppDelegate.swift */,
-				5A4ADE2124FDF727004CF2F1 /* SceneDelegate.swift */,
-				5A4ADE2624FDF728004CF2F1 /* ContentView.swift */,
-				5A4ADE2824FDF731004CF2F1 /* Assets.xcassets */,
-				5A4ADE2D24FDF731004CF2F1 /* LaunchScreen.storyboard */,
-				5A4ADE3024FDF731004CF2F1 /* Info.plist */,
-				5A4ADE2324FDF727004CF2F1 /* StopSnitches.xcdatamodeld */,
 				5A4ADE2A24FDF731004CF2F1 /* Preview Content */,
 			);
 			path = StopSnitches;
@@ -155,45 +146,12 @@
 			dependencies = (
 			);
 			name = StopSnitches;
+			packageProductDependencies = (
+				5A4B617324FE5FAE001FF96D /* HaishinKit */,
+			);
 			productName = StopSnitches;
-			productReference = 5A4ADE1C24FDF727004CF2F1 /* StopSnitches.app */;
+			productReference = 5A4ADE1C24FDF727004CF2F1 /* IDidn'tSeeShit.app */;
 			productType = "com.apple.product-type.application";
-		};
-		5A4ADE3424FDF731004CF2F1 /* StopSnitchesTests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 5A4ADE4C24FDF731004CF2F1 /* Build configuration list for PBXNativeTarget "StopSnitchesTests" */;
-			buildPhases = (
-				5A4ADE3124FDF731004CF2F1 /* Sources */,
-				5A4ADE3224FDF731004CF2F1 /* Frameworks */,
-				5A4ADE3324FDF731004CF2F1 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				5A4ADE3724FDF731004CF2F1 /* PBXTargetDependency */,
-			);
-			name = StopSnitchesTests;
-			productName = StopSnitchesTests;
-			productReference = 5A4ADE3524FDF731004CF2F1 /* StopSnitchesTests.xctest */;
-			productType = "com.apple.product-type.bundle.unit-test";
-		};
-		5A4ADE3F24FDF731004CF2F1 /* StopSnitchesUITests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 5A4ADE4F24FDF731004CF2F1 /* Build configuration list for PBXNativeTarget "StopSnitchesUITests" */;
-			buildPhases = (
-				5A4ADE3C24FDF731004CF2F1 /* Sources */,
-				5A4ADE3D24FDF731004CF2F1 /* Frameworks */,
-				5A4ADE3E24FDF731004CF2F1 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				5A4ADE4224FDF731004CF2F1 /* PBXTargetDependency */,
-			);
-			name = StopSnitchesUITests;
-			productName = StopSnitchesUITests;
-			productReference = 5A4ADE4024FDF731004CF2F1 /* StopSnitchesUITests.xctest */;
-			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
@@ -207,14 +165,7 @@
 				TargetAttributes = {
 					5A4ADE1B24FDF727004CF2F1 = {
 						CreatedOnToolsVersion = 11.6;
-					};
-					5A4ADE3424FDF731004CF2F1 = {
-						CreatedOnToolsVersion = 11.6;
-						TestTargetID = 5A4ADE1B24FDF727004CF2F1;
-					};
-					5A4ADE3F24FDF731004CF2F1 = {
-						CreatedOnToolsVersion = 11.6;
-						TestTargetID = 5A4ADE1B24FDF727004CF2F1;
+						LastSwiftMigration = 1160;
 					};
 				};
 			};
@@ -227,13 +178,14 @@
 				Base,
 			);
 			mainGroup = 5A4ADE1324FDF727004CF2F1;
+			packageReferences = (
+				5A4B617224FE5FAE001FF96D /* XCRemoteSwiftPackageReference "HaishinKit" */,
+			);
 			productRefGroup = 5A4ADE1D24FDF727004CF2F1 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
 				5A4ADE1B24FDF727004CF2F1 /* StopSnitches */,
-				5A4ADE3424FDF731004CF2F1 /* StopSnitchesTests */,
-				5A4ADE3F24FDF731004CF2F1 /* StopSnitchesUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -243,23 +195,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5A4ADE2F24FDF731004CF2F1 /* LaunchScreen.storyboard in Resources */,
+				5A4ADE6A24FDF7EE004CF2F1 /* Screencast in Resources */,
+				5A4ADE6D24FDF7EE004CF2F1 /* Base.lproj in Resources */,
+				5A4ADE7024FDF7EE004CF2F1 /* Icon.png in Resources */,
+				5A4ADE6E24FDF7EE004CF2F1 /* podfile in Resources */,
+				5A4ADE6724FDF7EE004CF2F1 /* Main.storyboard in Resources */,
+				5A4ADE6624FDF7EE004CF2F1 /* Pods in Resources */,
+				5A4ADE6824FDF7EE004CF2F1 /* Assets.xcassets in Resources */,
 				5A4ADE2C24FDF731004CF2F1 /* Preview Assets.xcassets in Resources */,
-				5A4ADE2924FDF731004CF2F1 /* Assets.xcassets in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		5A4ADE3324FDF731004CF2F1 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		5A4ADE3E24FDF731004CF2F1 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,54 +213,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5A4ADE2024FDF727004CF2F1 /* AppDelegate.swift in Sources */,
-				5A4ADE2224FDF727004CF2F1 /* SceneDelegate.swift in Sources */,
-				5A4ADE2724FDF728004CF2F1 /* ContentView.swift in Sources */,
-				5A4ADE2524FDF727004CF2F1 /* StopSnitches.xcdatamodeld in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		5A4ADE3124FDF731004CF2F1 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				5A4ADE3A24FDF731004CF2F1 /* StopSnitchesTests.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		5A4ADE3C24FDF731004CF2F1 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				5A4ADE4524FDF731004CF2F1 /* StopSnitchesUITests.swift in Sources */,
+				5A4ADE6424FDF7EE004CF2F1 /* VisualEffect.swift in Sources */,
+				5A4ADE6524FDF7EE004CF2F1 /* Preference.swift in Sources */,
+				5A4ADE6924FDF7EE004CF2F1 /* LiveViewController.swift in Sources */,
+				5A4ADE6C24FDF7EE004CF2F1 /* AppDelegate.swift in Sources */,
+				5A4ADE6324FDF7EE004CF2F1 /* PreferenceViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXTargetDependency section */
-		5A4ADE3724FDF731004CF2F1 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 5A4ADE1B24FDF727004CF2F1 /* StopSnitches */;
-			targetProxy = 5A4ADE3624FDF731004CF2F1 /* PBXContainerItemProxy */;
-		};
-		5A4ADE4224FDF731004CF2F1 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 5A4ADE1B24FDF727004CF2F1 /* StopSnitches */;
-			targetProxy = 5A4ADE4124FDF731004CF2F1 /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
-
-/* Begin PBXVariantGroup section */
-		5A4ADE2D24FDF731004CF2F1 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				5A4ADE2E24FDF731004CF2F1 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		5A4ADE4724FDF731004CF2F1 /* Debug */ = {
@@ -438,17 +342,20 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"StopSnitches/Preview Content\"";
 				DEVELOPMENT_TEAM = C9H8L5V2WB;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = StopSnitches/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.acab.acab.StopSnitches;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.acab.acab.IDidntseeshit;
+				PRODUCT_NAME = "IDidn'tSeeShit";
+				SWIFT_OBJC_BRIDGING_HEADER = "StopSnitches-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -458,103 +365,21 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"StopSnitches/Preview Content\"";
 				DEVELOPMENT_TEAM = C9H8L5V2WB;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = StopSnitches/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.acab.acab.StopSnitches;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.acab.acab.IDidntseeshit;
+				PRODUCT_NAME = "IDidn'tSeeShit";
+				SWIFT_OBJC_BRIDGING_HEADER = "StopSnitches-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Release;
-		};
-		5A4ADE4D24FDF731004CF2F1 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = C9H8L5V2WB;
-				INFOPLIST_FILE = StopSnitchesTests/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.acab.acab.StopSnitchesTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/StopSnitches.app/StopSnitches";
-			};
-			name = Debug;
-		};
-		5A4ADE4E24FDF731004CF2F1 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = C9H8L5V2WB;
-				INFOPLIST_FILE = StopSnitchesTests/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.acab.acab.StopSnitchesTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/StopSnitches.app/StopSnitches";
-			};
-			name = Release;
-		};
-		5A4ADE5024FDF731004CF2F1 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = C9H8L5V2WB;
-				INFOPLIST_FILE = StopSnitchesUITests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.acab.acab.StopSnitchesUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = StopSnitches;
-			};
-			name = Debug;
-		};
-		5A4ADE5124FDF731004CF2F1 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = C9H8L5V2WB;
-				INFOPLIST_FILE = StopSnitchesUITests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.acab.acab.StopSnitchesUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = StopSnitches;
 			};
 			name = Release;
 		};
@@ -579,38 +404,26 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5A4ADE4C24FDF731004CF2F1 /* Build configuration list for PBXNativeTarget "StopSnitchesTests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				5A4ADE4D24FDF731004CF2F1 /* Debug */,
-				5A4ADE4E24FDF731004CF2F1 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		5A4ADE4F24FDF731004CF2F1 /* Build configuration list for PBXNativeTarget "StopSnitchesUITests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				5A4ADE5024FDF731004CF2F1 /* Debug */,
-				5A4ADE5124FDF731004CF2F1 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 /* End XCConfigurationList section */
 
-/* Begin XCVersionGroup section */
-		5A4ADE2324FDF727004CF2F1 /* StopSnitches.xcdatamodeld */ = {
-			isa = XCVersionGroup;
-			children = (
-				5A4ADE2424FDF727004CF2F1 /* StopSnitches.xcdatamodel */,
-			);
-			currentVersion = 5A4ADE2424FDF727004CF2F1 /* StopSnitches.xcdatamodel */;
-			path = StopSnitches.xcdatamodeld;
-			sourceTree = "<group>";
-			versionGroupType = wrapper.xcdatamodel;
+/* Begin XCRemoteSwiftPackageReference section */
+		5A4B617224FE5FAE001FF96D /* XCRemoteSwiftPackageReference "HaishinKit" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/shogo4405/HaishinKit.swift";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.0.11;
+			};
 		};
-/* End XCVersionGroup section */
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		5A4B617324FE5FAE001FF96D /* HaishinKit */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 5A4B617224FE5FAE001FF96D /* XCRemoteSwiftPackageReference "HaishinKit" */;
+			productName = HaishinKit;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 5A4ADE1424FDF727004CF2F1 /* Project object */;
 }
