@@ -3,18 +3,18 @@
 <table>
 <tr>
 <td>
-  A webapp using Quandl API to display history of stock growth in a given period of time. It helps predict the growth of stocks from the  charts of stock performace in any period of time. It helps to judge stocks, with the principle of momentum investing, which returns 1% per month on average.
+ A hard part about live streaming at protests is not capturing protesters faces, as the fbi and police will watch livestreams. IDidnt see shit blocs out faces in real-time. This allows you to keep protesters anonymous-ish while recording live. 
 </td>
 </tr>
 </table>
 
 
-## Demo
-Here's a screen some screen caps
+## How-to
+Here's some screen caps
 
 
 ## Site
-
+Hopefully 
 
 
 
