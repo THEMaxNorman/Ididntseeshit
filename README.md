@@ -22,7 +22,7 @@ Hopefully soon we will have it in app store
 - A valid iOS Development certificate installed
 
 ### First Download and set up xcode
--[Download Here](https://developer.apple.com/xcode/) 
+- [Download Here](https://developer.apple.com/xcode/) 
 -
 ### Then download the app
 -Then [Download]() and unzip the app file
@@ -31,8 +31,12 @@ Hopefully soon we will have it in app store
 
 -Follow this [tutorial](https://codewithchris.com/deploy-your-app-on-an-iphone/) and you should have the app downloaded on your device.
 
-
-
+### Get your rtmp key 
+#### List Of Links
+- [Twitch]()
+- [Periscope]()
+- [Youtube]()
+- [Facebook]()
 
 
 
