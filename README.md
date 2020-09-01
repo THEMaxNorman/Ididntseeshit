@@ -9,9 +9,9 @@
 </table>
 
 
-## How-to
+## Example
 Here's some screen caps
-
+# ![Example](https://i.ibb.co/XLpPGgW/IMG-9970.png)
 
 ## Installation and Set Up
 Hopefully soon we will have it in app store
