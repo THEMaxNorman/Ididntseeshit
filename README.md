@@ -16,9 +16,11 @@ Here's some screen caps
 ## Installation and Set Up
 Hopefully soon we will have it in app store
 ### Requirements
-- A Mac or a device capable of running xcode 
+- macOS
 - [Xcode](https://developer.apple.com/xcode/) Download
 - An iOS device, Sorry android users
+- A valid iOS Development certificate installed
+
 ### First Download and set up xcode
 
 
