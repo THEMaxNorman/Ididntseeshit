@@ -4,7 +4,7 @@
 <table>
 <tr>
 <td>
- A hard part about live streaming at protests is not capturing protesters faces, as the fbi and police will watch livestreams. I didnt see shit blocs out faces in real-time. This allows you to keep protesters anonymous-ish while live streaming. 
+ A hard part about live streaming at protests is not capturing protesters faces, as piggies will watch livestreams. This app blocks out faces in real-time. This allows you to keep protesters anonymous-ish while live streaming. 
 </td>
 </tr>
 </table>
