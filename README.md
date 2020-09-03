@@ -35,7 +35,8 @@ Hopefully soon we will have it in app store
 ### Get your rtmp key 
 #### List Of Links
 - This [Link](https://help.livestream.com/hc/en-us/articles/360002051708-How-Do-I-Find-RTMP-Stream-Settings-For-Popular-Providers-) has how to get your info for most services
-
+## Need help?
+- [Email Me](mailto:maxnor99@protonmail.com)
 ## Development
 Want to contribute? Great!
 
@@ -72,7 +73,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 
  
- ## Buy me a Coffee(https://cash.app/$maxnorman2)
+ ## [Buy me a Coffee](https://cash.app/$maxnorman2)
 
  
 
