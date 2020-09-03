@@ -69,9 +69,11 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 - Add local recording for streams
 - Improve ReadMe
 
-## Buy me a Coffee
-https://venmo.com/code?user_id=2138918015205376502
 
+<a href ='https://cash.app/$maxnorman2'> 
+ 
+ ## Buy me a Coffee
+ </a>
  
 
 
