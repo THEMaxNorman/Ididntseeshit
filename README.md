@@ -70,10 +70,10 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 - Improve ReadMe
 
 
-<a href ='https://cash.app/$maxnorman2'> 
+
  
- ## Buy me a Coffee
- </a>
+ ## Buy me a Coffee(https://cash.app/$maxnorman2)
+
  
 
 
