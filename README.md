@@ -67,6 +67,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 - Add BLUR instead of black bar fuck
 - Improve UI 
 - Add local recording for streams
+- Improve ReadMe
 
 ## Buy me a Coffee
 https://venmo.com/code?user_id=2138918015205376502
